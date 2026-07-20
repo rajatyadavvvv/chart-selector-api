@@ -45,7 +45,7 @@ chart-selector-api/
 Clone the repo and set up a virtual environment:
 
 ```bash
-git clone https://github.com/<your-username>/chart-selector-api.git
+git clone https://github.com/rajatyadavvvv/chart-selector-api.git
 cd chart-selector-api
 python -m venv venv
 venv\Scripts\activate      # Windows
