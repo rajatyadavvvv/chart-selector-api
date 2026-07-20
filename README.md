@@ -93,3 +93,4 @@ IAM roles and security groups handle permissions and network access for the runn
 
 - This project was built as a learning/portfolio exercise to practice end-to-end deployment (containerization → registry → orchestration) alongside data visualization logic.
 - The AWS resources may not be live at all times to avoid ongoing costs — see the sections above for how to run it locally.
+- - See the full [Test Report](docs/Test-Report.pdf) for validation results across all 11 chart types.
